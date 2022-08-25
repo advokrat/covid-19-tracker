@@ -1,4 +1,4 @@
-## Link to Live Site - https://matrix101a.github.io/covid-19-tracker/
+## Link to Live Site - https://advokrat.github.io/covid-19-tracker/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
